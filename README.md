@@ -1,1 +1,2 @@
-# Multiplayer-game
+# synchronousBallMovement
+Ball moving synchronously
